@@ -14,7 +14,7 @@ This project was designed for us to analyze a car manufacturing data (MechaCar) 
 1) Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
 Add pic 1 here ![image]( ) part B
-Add pic 1 here ![image](https://github.com/DmanDJs1/bikesharing/blob/main/Images/1.jpg?raw=true) Part 1
+Add pic 1 here ![image]( ) Part 1
 
 a)	vehicle weight(0.0776)
 b)	spoiler angle(0.3069)
