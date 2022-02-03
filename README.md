@@ -69,31 +69,28 @@ The following picture shows in the order the following:
 1) What metric or metrics are you going to test?
 
 
-The metrics I would test would be the following: 1) Safety Rating 2) Engine Type 3) MPG 4) Insurance Costs
+  The metrics I would test would be the following: 1) Safety Rating 2) Engine Type 3) MPG 4) Insurance Costs
 
-The analysis will test these metrics in both the Mechacar and vehicles from other manufacturers to determine 
-whether any statistically significant differences exist. 
-
+  The analysis will test these metrics in both the Mechacar and vehicles from other manufacturers to determine 
+  whether any statistically significant differences exist. 
 
 
 2) What is the null hypothesis or alternative hypothesis?
 
 
-Null Hypothesis: Among the metrics tested, MechaCar is the most cost-effective car based on fuel efficiency compared to vehicles from other manufacturers.
-Alternative hypothesis: MechaCar is not the most cost-effective car based on fuel efficiency compared to vehicles from other manufacturers.
-
+  Null Hypothesis: Among the metrics tested, MechaCar is the most cost-effective car based on fuel efficiency compared to vehicles from other manufacturers.
+  Alternative hypothesis: MechaCar is not the most cost-effective car based on fuel efficiency compared to vehicles from other manufacturers.
 
 3) What statistical test would you use to test the hypothesis? And why?
 
 
-Since I'm looking to test more than one independent variable, 
-I would suggest performing the multiple linear regression model. 
-We would determine the coorelation between cost value vs. the other metrics mentioned above (1-4).
-
+  Since I'm looking to test more than one independent variable, 
+  I would suggest performing the multiple linear regression model. 
+  We would determine the coorelation between cost value vs. the other metrics mentioned above (1-4).
 
 4) What data is needed to run the statistical test?
 
-Data set that is needed is MPG, Safety Rating, Engine Type, and average Insurance Costs.
+  Data set that is needed is MPG, Safety Rating, Engine Type, and average Insurance Costs.
 
 
 
