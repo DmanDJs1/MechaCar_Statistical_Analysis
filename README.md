@@ -58,7 +58,7 @@ The following picture shows in the order the following:
 3) T-test on suspension coil for Lot 2
 4) T-test on suspension coil for Lot 3
 
-Add pic3 here ![image]( )
+![image](https://github.com/DmanDJs1/MechaCar_Statistical_Analysis/blob/main/Pictures/pic3_OverallResults_t_test.PNG?raw=true)
 
 ## Study Design: MechaCar vs Competition
 
