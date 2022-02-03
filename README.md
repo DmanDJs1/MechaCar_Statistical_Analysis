@@ -22,7 +22,7 @@ c)	AWD(0.1852)
 
 2) Is the slope of the linear model considered to be zero? Why or why not?
 
-Add pic 1 here ![image]( )
+![image](https://github.com/DmanDJs1/MechaCar_Statistical_Analysis/blob/main/Pictures/Pic1_summaryvehicleLength.PNG?raw=true)
 
 As per the above image, the p-value of the linear model is 5.35e-11 which is far less than the assumed significance level of 0.05%. 
 The slope of the linear model is therefore not considered to be zero because the p-value is less than 0.05. 
