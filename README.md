@@ -16,8 +16,12 @@ This project was designed for us to analyze a car manufacturing data (MechaCar) 
 ![image](https://github.com/DmanDJs1/MechaCar_Statistical_Analysis/blob/main/Pictures/Pic1b_summaryvehicleLength.PNG?raw=true)
 ![image](https://github.com/DmanDJs1/MechaCar_Statistical_Analysis/blob/main/Pictures/Pic1_summaryvehicleLength.PNG?raw=true)
 
+The following coefficients (variables) provided a non-random value of variance to the mpg values:
+
 a)	vehicle weight(0.0776)
+
 b)	spoiler angle(0.3069)
+
 c)	AWD(0.1852)
 
 2) Is the slope of the linear model considered to be zero? Why or why not?
